@@ -23,4 +23,6 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/)
+- [儲存庫](https://github.com/Errol03/line-text)
+
+Channel ID：1655114261
